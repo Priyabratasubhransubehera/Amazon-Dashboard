@@ -184,9 +184,7 @@ Dashboard can be accessed on different devices for flexible use.
 
 - Tableau – for data visualization and dashboard creation
 
-- Excel/CSV – for initial data input and formatting
-
-- Git & GitHub – For version control and hosting
+ - GitHub – For version control and hosting
 
 - Kaggle – Dataset source
 
